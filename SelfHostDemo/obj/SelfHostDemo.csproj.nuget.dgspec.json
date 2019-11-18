@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\imanm\\source\\repos\\SelfHostDemo\\SelfHostDemo\\SelfHostDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\imanm\\source\\repos\\SelfHostDemo\\SelfHostDemo\\SelfHostDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imanm\\source\\repos\\SelfHostDemo\\SelfHostDemo\\SelfHostDemo.csproj",
+        "projectName": "SelfHostDemo",
+        "projectPath": "C:\\Users\\imanm\\source\\repos\\SelfHostDemo\\SelfHostDemo\\SelfHostDemo.csproj",
+        "packagesPath": "C:\\Users\\imanm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imanm\\source\\repos\\SelfHostDemo\\SelfHostDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\imanm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

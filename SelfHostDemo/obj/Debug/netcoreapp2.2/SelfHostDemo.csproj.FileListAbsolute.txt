@@ -1,0 +1,11 @@
+C:\Users\imanm\source\repos\SelfHostDemo\SelfHostDemo\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\imanm\source\repos\SelfHostDemo\SelfHostDemo\bin\Debug\netcoreapp2.2\SelfHostDemo.deps.json
+C:\Users\imanm\source\repos\SelfHostDemo\SelfHostDemo\bin\Debug\netcoreapp2.2\SelfHostDemo.runtimeconfig.json
+C:\Users\imanm\source\repos\SelfHostDemo\SelfHostDemo\bin\Debug\netcoreapp2.2\SelfHostDemo.runtimeconfig.dev.json
+C:\Users\imanm\source\repos\SelfHostDemo\SelfHostDemo\bin\Debug\netcoreapp2.2\SelfHostDemo.dll
+C:\Users\imanm\source\repos\SelfHostDemo\SelfHostDemo\bin\Debug\netcoreapp2.2\SelfHostDemo.pdb
+C:\Users\imanm\source\repos\SelfHostDemo\SelfHostDemo\obj\Debug\netcoreapp2.2\SelfHostDemo.csproj.CoreCompileInputs.cache
+C:\Users\imanm\source\repos\SelfHostDemo\SelfHostDemo\obj\Debug\netcoreapp2.2\SelfHostDemo.AssemblyInfoInputs.cache
+C:\Users\imanm\source\repos\SelfHostDemo\SelfHostDemo\obj\Debug\netcoreapp2.2\SelfHostDemo.AssemblyInfo.cs
+C:\Users\imanm\source\repos\SelfHostDemo\SelfHostDemo\obj\Debug\netcoreapp2.2\SelfHostDemo.dll
+C:\Users\imanm\source\repos\SelfHostDemo\SelfHostDemo\obj\Debug\netcoreapp2.2\SelfHostDemo.pdb
